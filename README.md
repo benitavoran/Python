@@ -9,3 +9,7 @@
 (https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)
 (https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
 (C:\Users\Benit\Documents\Data Analysis Cert\2021-09 Instacart Basket Analysis\04 Analysis\4.10 Excel Analysis Instacart BEV.xlsx)
+
+
+Video Recording link:
+(https://youtu.be/Qbyjwf7Adp0)
